@@ -98,3 +98,12 @@
 #     return str
 #   else:
 #     return 'not ' + str
+
+
+# Warmup-1 > missing_char 
+
+# def missing_char(str, n):
+#   if n > 0:
+#     return str[:n] + str[n+1:]
+#   else:
+#     return str[1:]
