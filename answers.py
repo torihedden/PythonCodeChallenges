@@ -124,7 +124,6 @@
 #   trip = ''
 #   for i in range(3):
 #     trip += str[0:3]
-
 #   return trip
   
 # # there is no need to check for the length of the string
