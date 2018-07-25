@@ -116,3 +116,15 @@
 #     return str[:n] + str[n+1:]
 #   else:
 #     return str[1:]
+
+
+# Warmup-1 > front3 
+
+# def front3(str):
+#   trip = ''
+#   for i in range(3):
+#     trip += str[0:3]
+
+#   return trip
+  
+# # there is no need to check for the length of the string
