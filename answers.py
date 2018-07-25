@@ -39,6 +39,15 @@
 # print(diff21(25))
 
 
+# Warmup-1 > front_back 
+
+# def front_back(str):
+#   if len(str) == 1:
+#     return str
+#   else:
+#     return str[-1:] + str[1:-1] + str[0:1]
+
+
 # Warmup-1 > parrot_trouble 
 # We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return True if we are in trouble.
 
