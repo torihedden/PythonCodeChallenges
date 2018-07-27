@@ -23,3 +23,12 @@
 #   for x in range(0, len(str), 2):
 #     new_str += str[x]
 #   return new_str
+
+
+# Warmup-2 > string_splosion 
+
+# def string_splosion(str):
+#   str_splosion= ''
+#   for x in range(len(str)+1):
+#     str_splosion += str[0:x]
+#   return str_splosion
