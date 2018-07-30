@@ -32,3 +32,13 @@
 #   for x in range(len(str)+1):
 #     str_splosion += str[0:x]
 #   return str_splosion
+
+
+# Warmup-2 > array_count9
+
+# def array_count9(nums):
+#   nine_count = 0
+#   for x in range(len(nums)):
+#     if nums[x] == 9:
+#       nine_count += 1
+#   return nine_count
